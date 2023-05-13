@@ -31,6 +31,7 @@ body{
 }
 
 .container-qr {
+    margin-top: 100px;
     width: 80%;
     max-width: 300px;
     padding: 15px;
